@@ -1,0 +1,354 @@
+
+body{
+    margin: 0px;
+
+}
+.header{
+ background-color: white;
+ width: 100%;
+ height: 170px;
+
+}
+
+.logoimg{
+    margin-top: 33px;
+    margin-left: 135px;
+}
+
+.brandtext{
+   margin-left: 292px;
+   margin-top: -55px;
+   display: flex;
+   flex-direction: row;
+      
+}
+.a1,.a2,.a3,.a4{
+    margin: 31px;
+    text-decoration: none;
+    color:black;
+    font-family:sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+}
+.rightarrow{
+    display: flex;
+    margin-left: 464px;
+   margin-top: -97px;
+}
+.r1,.r2,.r3{
+    margin: 47px;
+    width: 10px;
+    font-size: 18px;
+}
+
+.kinleylogo{
+    width: 63px;
+    height: auto;
+    position: absolute;
+    top: 90px;
+    left: 738px;
+}
+.section{
+    background: #eeeeee;
+    padding-bottom: 85px;
+}
+.img1{
+    margin-top: 30px;
+    margin-left: 110px;
+    border-radius: 25px;
+}
+.Products{
+    margin-left: 677px;
+    margin-top: 55px;
+    color: black;
+    font-family: sans-serif;
+    font-size: 39px;
+    font-weight: 900;
+}
+.bottle2img{
+    margin-top: 80px;
+    margin-left: 169px;
+    border-radius: 25px;
+}
+.trust{
+    margin-top: -445px;
+    margin-left: 888px;
+    font-weight: 600;
+    font-size: 28px;
+    font-family: sans-serif;
+}
+.para1{
+    margin-top: -2px;
+    margin-left: 890px;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: serif;
+    line-height: 27px;
+}
+.button{
+    margin-left: 893px;
+    margin-top: 12px;
+    width: 309px;
+    height: 38px;
+    background-color:#eeeeee;
+    border-radius:30px;
+}
+.msdhoni{
+    margin-left: 163px;
+    margin-top: 249px;    
+}
+.dhoniimg{
+    width: 1180px;
+    height: 635px;
+    border-radius: 25px;
+}
+
+.playbutton{
+    
+    color: black;
+    padding: 36px;
+    z-index: 2;
+    border-radius: 100%;
+    width: 0px;
+    height: 0px;
+    margin-top: 30px;
+    margin-left: 500px;
+}
+.icon1{
+    background-color: white;
+    margin-top: 10px;
+    position: absolute;
+    top: 1916px;
+    left: 674px;
+    border-radius: 100%;
+    padding: 15px;
+    font-size: 70px;
+}
+.waterimg{
+    width: 1180px;
+    height: 635px;
+    border-radius: 25px; 
+    margin-left: 163px;
+    margin-top: -29px;  
+}
+.icon2{
+    background-color: white;
+    border-radius: 100%;
+    padding: 15px;
+    font-size: 70px;
+    position: absolute;
+    top: 2649px;
+    left: 674px;   
+}
+.download{
+    font-weight: 600;
+    font-size: 26px;
+    font-family: sans-serif;
+    margin-left: 164px;
+    margin-top: 290px; 
+}
+.para2{
+    margin-top: 20px;
+    margin-left: 164px;
+    font-size: 19px;
+    font-weight: 400;
+    font-family: serif;
+    line-height: 27px;
+}
+.button2{
+    margin-left: 156px;
+    margin-top: 11px;
+    width: 309px;
+    height: 38px;
+    background-color:#eeeeee;
+    border-radius:30px; 
+    font-weight: 700; 
+} 
+.phoneimg{
+    margin-left: 756px;
+    margin-top: -358px;
+    width: 597px;
+    height:auto;
+    border-radius: 25px;
+}  
+.blackbar{
+    background: black;
+    width: 1170px;
+    height: 120px;
+    border-radius: 20px;
+    margin-left: 177px;
+    margin-top: 132px;
+}
+.follow{
+    color: white;
+    font-weight: 700;
+    font-size:33px;
+    font-family: sans-serif; 
+    position: absolute;
+    left: 323px;
+    top: 3912px; 
+}
+#facebook{
+    color: white;
+    position: absolute;
+    top: 3932px;
+    left: 1208px;
+    background-color:black;
+    border-radius: 100%;
+    width: 13px;
+    height: 15px;
+    padding: 13px;
+    border: 2px solid white; 
+}
+#youtube{
+    color: white;
+    position: absolute;
+    top: 3932px;
+    left: 1151px;
+    background-color:black;
+    border-radius: 100%;
+    width: 13px;
+    height: 15px;
+    padding: 13px;
+    border: 2px solid white;   
+}
+#twitter{
+    color: white;
+    position: absolute;
+    top: 3932px;
+    left: 1095px;
+    background-color:black;
+    border-radius: 100%;
+    width: 13px;
+    height: 15px;
+    padding: 13px;
+    border: 2px solid white; 
+}
+.lastpara{
+    margin-left: 180px;
+    font-size: 18px;
+    font-weight: 200;
+}
+.footter{
+    background-color:black;
+    width: 100%;
+    height: 743px;
+}
+.logoimgwhite{
+    position: absolute;
+    top: 4396px;
+    left: 200px;
+}
+.location{
+    color: aliceblue;
+}
+#location{
+    margin-left: 1265px;
+    margin-top: 118px;
+    color: white;
+}
+.india{
+    margin-left: 1249px;
+    margin-top: -50px;
+    border: 2px solid white;
+    padding: 28px;
+    border-radius: 14px;
+    width: 117px;
+    height: 12px;
+    color: white;
+}
+.line{
+    width: 81%;
+    margin-left: 194px;
+    margin-top: 98px;
+}
+.about{
+    display: flex;
+    flex-direction: row;
+}
+.aboutus,.needhlp{
+    margin: -43px;
+    margin-left: 198px;
+    margin-top: 50px;
+    color: white;
+}
+.cmpnylist{
+    color: white;
+    margin-left: 194px;
+    margin-top: 98px;
+    line-height: 33px;
+}
+.faqlist{
+    color: white;
+    margin-left: 419px;
+    margin-top: -185px;
+    line-height: 33px; 
+}
+.termslist{
+    color: white;
+    margin-left: 619px;
+    margin-top: -117px;
+    line-height: 33px;  
+}
+#twitter1{
+    color: white;
+    position: absolute;
+    top: 4579px;
+    left: 1214px;
+    background-color:black;
+    border-radius: 100%;
+    width: 13px;
+    height: 15px;
+    padding: 13px;
+    border: 2px solid white; 
+}
+#insta1{
+    color: white;
+    position: absolute;
+    top: 4579px;
+    left: 1267px;
+    background-color:black;
+    border-radius: 100%;
+    width: 13px;
+    height: 15px;
+    padding: 13px;
+    border: 2px solid white;   
+}
+#youtube1{
+    color: white;
+    position: absolute;
+    top: 4579px;
+    left: 1318px;
+    background-color:black;
+    border-radius: 100%;
+    width: 13px;
+    height: 15px;
+    padding: 13px;
+    border: 2px solid white;     
+}
+#facebook1{
+    color: white;
+    position: absolute;
+    top: 4579px;
+    left: 1369px;
+    background-color:black;
+    border-radius: 100%;
+    width: 13px;
+    height: 15px;
+    padding: 13px;
+    border: 2px solid white;    
+}
+.line1{
+    width: 81%;
+    margin-left: 194px;
+    margin-top: 98px;
+}
+.finaltxt{
+    color: white;
+    margin-left: 1115px;
+    margin-top: 42px;
+    font-size: 17px;
+
+}
+
+
